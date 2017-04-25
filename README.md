@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-replace-task/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-replace-task/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-replace-task/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-replace-task/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-replace-task/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-replace-task/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-replace-task/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-replace-task/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-replace-task/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-replace-task/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-replace-task/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-replace-task/build/coverage.html/index.html)
 
@@ -97,7 +97,8 @@
         "release": "scripts/release.sh",
         "test": "mocha"
     },
-    "version": "0.11.0"
+    "version": "0.11.0",
+    "bin": {}
 }
 ```
 
